@@ -1,0 +1,2 @@
+sudo dpkg -i /workplace/libc6_2.23-0ubuntu10_amd64.deb 
+sudo ln -sf /lib/x86_64-linux-gnu/libc-2.23.so /lib/x86_64-linux-gnu/libc.so.6
